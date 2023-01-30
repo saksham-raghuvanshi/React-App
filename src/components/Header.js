@@ -3,8 +3,8 @@ import "./CSS/header.css"
 
 export default function Header() {
   return (
-    <div>
-      <p>sjaja</p>
-    </div>
+    <header>
+      <p>Content</p>
+    </header>
   )
 }
